@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T15:50:30.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qWtBNnrYoWV5p_cO6SyW" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T16:06:40.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ppYNj1UcmOJuFTst9TM5" version="22.1.7" type="github">
   <diagram name="Страница — 1" id="K7_3IRRJhVMm8eNUuH6f">
-    <mxGraphModel dx="6434" dy="3769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3566" dy="2209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -395,7 +395,7 @@
           <mxGeometry x="-930" y="-310" width="560" height="820" as="geometry" />
         </mxCell>
         <mxCell id="_1a7FBgJXiyIC5R8BmPw-246" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Резервная копия БД&lt;/font&gt;&lt;/b&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="1717" width="230" height="160" as="geometry" />
+          <mxGeometry x="1290" y="1690" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_1a7FBgJXiyIC5R8BmPw-253" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1570" y="1670" width="330" height="380" as="geometry" />
@@ -405,6 +405,12 @@
         </mxCell>
         <mxCell id="_1a7FBgJXiyIC5R8BmPw-249" value="Журналы баз данных" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="_1a7FBgJXiyIC5R8BmPw-253">
           <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_1a7FBgJXiyIC5R8BmPw-254" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Резервная копия БД&lt;/font&gt;&lt;/b&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1760" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_1a7FBgJXiyIC5R8BmPw-256" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Резервные копии БД&lt;/font&gt;&lt;/b&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1840" width="230" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
